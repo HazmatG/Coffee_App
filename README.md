@@ -1,4 +1,4 @@
-# flutterpj
+# App Template for your Coffee House (In progress)
 
 A new Flutter project.
 
